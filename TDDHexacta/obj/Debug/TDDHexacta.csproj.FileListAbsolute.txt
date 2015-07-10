@@ -1,0 +1,5 @@
+c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\bin\Debug\TDDHexacta.dll
+c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\bin\Debug\TDDHexacta.pdb
+c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.csprojResolveAssemblyReference.cache
+c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.dll
+c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.pdb
