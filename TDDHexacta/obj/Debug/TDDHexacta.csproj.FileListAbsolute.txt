@@ -3,3 +3,9 @@ c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\b
 c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.csprojResolveAssemblyReference.cache
 c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.dll
 c:\users\jloscalzo\documents\visual studio 2013\Projects\TDDHexacta\TDDHexacta\obj\Debug\TDDHexacta.pdb
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\bin\Debug\TDDHexacta.dll
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\bin\Debug\TDDHexacta.pdb
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\obj\Debug\TDDHexacta.dll
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\obj\Debug\TDDHexacta.pdb
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\bin\Debug\nunit.framework.dll
+C:\Users\jloscalzo\Documents\Visual Studio 2013\Projects\TDDHexactaCapacitacion\TDDHexacta\bin\Debug\nunit.framework.xml
